@@ -6,3 +6,15 @@
 [![Twitter Badge](https://img.shields.io/badge/-@kof_Oyin-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/kof_Oyin)](https://twitter.com/kof_Oyin)
 
 
+I'm a Frontend Developer, a Technical Writer and a Creative Social Media Manager. I am a dedicated and detail-oriented problem solver. I am ready to make an immediate contribution to the society.
+I am passionate about sharing knowledge.
+
+## **Here's a quick summary about me**:
+
+- 😊 Pronouns: She/Her
+- 💼 Education Babcock University, Bachelor of Science, Computer Science, Second Class Honours (Upper Division)
+- 💡 Fun fact: I'm studying Frontend Development from [SEAMFIX NEXTGEN](https://seamfixnextgen.com/) Class of 2023.
+- 🌱🌱 I’m currently learning
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) and much more.
