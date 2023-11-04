@@ -25,3 +25,4 @@ I am passionate about sharing knowledge.
 - 💼 Job interests: Software Engineer, Front Engineer.
 - 📫 You can contact me by emailing [kofodym07@yahoo.com](mailto:kofodym07@yahoo.com).
 ***
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kofodym&show_icons=true&include_all_commits=true&hide_border=true" alt="Kofoworola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kofodym&langs_count=8&layout=compact&hide_border=true" alt="Kofoworola's GitHub stats" /> |
